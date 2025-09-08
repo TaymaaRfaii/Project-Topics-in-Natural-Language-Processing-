@@ -4,7 +4,6 @@
 **University:** Ben-Gurion University of the Negev | Spring 2025  
 ---
 
-## Overview
 This project examines the stylistic and linguistic evolution of children’s literature from the 18th to the 21st century. 
 
 By analyzing a curated corpus of fifteen influential books, we investigate how sentence structure, vocabulary, and narrative style have changed over time. Using natural language processing (NLP) and stylometric techniques, we measure shifts in average sentence length, syntactic complexity, lexical richness, and thematic emphasis.
