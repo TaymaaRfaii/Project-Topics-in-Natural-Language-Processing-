@@ -1,0 +1,15 @@
+,Alice in Wonderland,Harry Potter and the Philosopher’s Stone,Charlie and the Chocolate Factory,Coraline,Goody Two-Shoes,Heidi,Matilda,Peter and Wendy,The Adventure of Pinocchio,The History of Sandford and Merton,The King of the Golden River,The Wonderful Wizard of Oz,Treasure Island,Wonder
+Alice in Wonderland,1.0,0.0,0.0,0.0,0.0,0.0,0.99,0.0,0.0,0.0,0.01,0.0,0.0,0.0
+Harry Potter and the Philosopher’s Stone,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Charlie and the Chocolate Factory,0.0,0.0,1.0,1.0,0.0,0.0,0.05,0.0,0.55,0.0,0.31,0.0,0.0,0.0
+Coraline,0.0,0.0,1.0,1.0,0.0,0.0,0.05,0.0,0.55,0.0,0.31,0.0,0.0,0.0
+Goody Two-Shoes,0.0,0.0,0.0,0.0,1.0,0.58,0.0,0.58,0.82,0.82,0.82,0.0,0.0,0.0
+Heidi,0.0,0.0,0.0,0.0,0.58,1.0,0.0,1.0,0.53,0.0,0.16,0.0,0.0,0.0
+Matilda,0.99,0.0,0.05,0.05,0.0,0.0,1.0,0.0,0.04,0.0,0.03,0.0,0.0,0.1
+Peter and Wendy,0.0,0.0,0.0,0.0,0.58,1.0,0.0,1.0,0.53,0.0,0.16,0.0,0.0,0.0
+The Adventure of Pinocchio,0.0,0.0,0.55,0.55,0.82,0.53,0.04,0.53,1.0,0.64,0.84,0.08,0.03,0.1
+The History of Sandford and Merton,0.0,0.0,0.0,0.0,0.82,0.0,0.0,0.0,0.64,1.0,0.89,0.0,0.0,0.0
+The King of the Golden River,0.01,0.0,0.31,0.31,0.82,0.16,0.03,0.16,0.84,0.89,1.0,0.04,0.27,0.0
+The Wonderful Wizard of Oz,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.08,0.0,0.04,1.0,0.0,0.0
+Treasure Island,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.03,0.0,0.27,0.0,1.0,0.0
+Wonder,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.0,0.1,0.0,0.0,0.0,0.0,1.0
